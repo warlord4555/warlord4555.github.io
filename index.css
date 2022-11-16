@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    color: #fdf5c9;
+    font-family: "Neue Haas Grotesk Display Pro";
+    background-color: #222;
+}
+.header{
+    margin-bottom: 10%
+}
+.obshi {
+    padding-top: 5%;
+    display: flex;
+    flex-direction: column;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+.takiny {
+    display: flex;
+    flex-direction: column;
+}
+
+.mi-hat {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5%;
+} 
+.tema-body{
+    /* display: flex;
+    flex-direction: row; */
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.VARYA-OHANYAN,
+.tema-header,
+.skills,
+.dzaxi-grac{
+    font-weight: 600;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.taki-linker{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    margin-left: 45%;
+}
+
+.skills{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 50%;
+}
+
+.chskills{
+    display: flex;
+    flex-direction: column;
+    color: #9b967e;
+    text-align: left;
+    margin-left: 50%;
+}
+
+a:visited {
+    color: #fdf5c9;
+  }
